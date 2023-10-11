@@ -5,7 +5,7 @@ Enthusiastic about learning new things, especially mobile application developmen
 
 ## 📘 Education
 
-- **B.S. in computer Science at University of University of the people**
+- **B.S. in computer Science at University of the people**
 
 ##  Skills
 
