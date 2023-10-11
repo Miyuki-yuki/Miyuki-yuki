@@ -22,7 +22,7 @@ Enthusiastic about learning new things, especially mobile application developmen
 
 ## Featured Projects
 
-- **educational apps**: Engaged in an exploration of game situations involving defensive teammates with data-driven storytelling.
+- **educational apps**: .
 - **some books about AI**: Teaching and introducing people how to uterlize AI.
 -
 
