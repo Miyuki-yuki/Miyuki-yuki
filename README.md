@@ -1,30 +1,30 @@
 
-# Hello, I'm Miyuki! 📊
+# Hi, I'm Miyuki.
 
-Passionate about unveiling hidden narratives within vast datasets, I specialize in extracting insights and formulating precise predictions. My journey in Data Science is characterized by a profound love for building, maintaining, and optimizing systems. An unyielding curiosity drives me, coupled with a dedication to harnessing computational capabilities to bring clarity to data's inherent complexities. With a keen interest spanning finance, agriculture, sports analytics, and retail, my mission is to leverage data's transformative power to pave the way for innovative advancements.
+Enthusiastic about learning new things, especially mobile application development. I started my education with Python and Java, learned a lot of web applications. After a couple of years of studying, I started to teach programming. I have improved my communication skills and consolidate my programming knowledge.
 
 ## 📘 Education
 
-- **B.S. in computer Science at University of **
+- **B.S. in computer Science at University of University of the people**
 
-## 🛠 Skills
+##  Skills
 
 - **Languages**: SwiftUI Python
 - **Libraries/Frameworks**: Core Data, JSON, API
 - **Tools**: Xcode, Git, VScode
 - **I dabble in**: HTML, CSS, JavaScript,  
 
-## 🎖 Certifications
+## Certifications
 
-- Business Analytics, University of Maryland, Global Campus
-- 
+- Google IT support
+- Google Analytics
+  
 
-## 📈 Featured Projects
+## Featured Projects
 
 - **educational apps**: Engaged in an exploration of game situations involving defensive teammates with data-driven storytelling.
-- **NASA Deep Space Food Challenge**: Explored sustainable food production for space with data-driven methodologies.
-- **Track the Blue**: Created and designed a SQL database for a crowd-sourced police complaint system. Minor contributions to web development.
-- **Hiring in Tech**: Twitter/X bot developed to monitor and retweet posts pertaining to job opportunities in technology.
+- **some books about AI**: Teaching and introducing people how to uterlize AI.
+-
 
 ## 🌐 Connect with Me
 
