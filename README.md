@@ -3,7 +3,7 @@
 
 Enthusiastic about learning new things, especially mobile application development. I started my education with Python and Java, learned a lot of web applications. After a couple of years of studying, I started to teach programming. I have improved my communication skills and consolidate my programming knowledge.
 
-## 📘 Education
+## Education
 
 - **B.S. in computer Science at University of the people**
 
@@ -24,7 +24,7 @@ Enthusiastic about learning new things, especially mobile application developmen
 
 - **educational apps**: .
 - **some books about AI**: Teaching and introducing people how to uterlize AI.
--
+
 
 ## 🌐 Connect with Me
 
