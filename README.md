@@ -9,7 +9,7 @@ Enthusiastic about learning new things, especially mobile application developmen
 
 ##  Skills
 
-- **Languages**: SwiftUI Python Java 
+- **Languages**: SwiftUI Python Java HTML CSS JavaScript SQL
 - **Libraries/Frameworks**: Core Data, JSON, API
 - **Tools**: Xcode, Git, VScode
 - **I dabble in**: HTML, CSS, JavaScript,  
