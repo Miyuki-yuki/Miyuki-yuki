@@ -12,7 +12,7 @@ Enthusiastic about learning new things, especially mobile application developmen
 - **Languages**: SwiftUI Python Java HTML CSS JavaScript SQL
 - **Libraries/Frameworks**: Core Data, JSON, API
 - **Tools**: Xcode, Git, VScode
-- **I dabble in**: HTML, CSS, JavaScript,  
+- **I can also make projects by using**: HTML, CSS, JavaScript,  
 
 ## Certifications
 
