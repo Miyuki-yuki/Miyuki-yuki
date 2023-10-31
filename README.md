@@ -27,6 +27,6 @@ I am passionate about learning new things, especially mobile application develop
 
 ## 🌐 Connect with Me
 
-- [LinkedIn: Miyuki Kikuchi](https://www.linkedin.com/in/zack-adams-1a04a21b7/)
+- [LinkedIn: Miyuki Kikuchi](https://www.linkedin.com/in/miyuki-kikuchi-201b9b21a/)
 - [Email: kikuchimiyuki12@gmail.com](mailto:kikuchimiyuki12@gmail.com)
 
