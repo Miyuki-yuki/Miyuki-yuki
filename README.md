@@ -9,8 +9,8 @@ I am passionate about learning new things, especially mobile application develop
 ##  Skills
 
 - **Languages**: SwiftUI Python Java HTML CSS JavaScript SQL 
-- **Libraries/Frameworks**: Core Data, JSON, API, Flask, Bootstrap
-- **Tools**: Xcode, Git, VScode
+- **Libraries/Frameworks**: Core Data, JSON, API, Flask, Bootstrap, Django
+- **Tools**: Xcode, Git, VScode, MySQL
 
 
 ## Certifications
