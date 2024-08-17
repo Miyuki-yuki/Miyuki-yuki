@@ -17,6 +17,8 @@ I am passionate about learning new things, especially mobile application develop
 
 - Google IT support
 - Google Analytics
+- IBM AI developer
+- IBM AI engineer
   
 
 ## Featured Projects
