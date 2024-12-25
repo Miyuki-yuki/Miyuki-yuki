@@ -1,7 +1,11 @@
 
 # Hi, I'm Miyuki.
 
-I am passionate about learning new things, especially mobile application development. I started my education with Python and Java, learned a lot of web applications. After a couple of years of studying, I started to teach programming to consolidate my basics. Through teaching students, I have improved my communication skills and consolidate my programming knowledge. In my free time, I try to expand my knowledge.
+I develop mobile applications, web applications and websites. I am passionate about learning new things, so trying to learn more and more every day. 
+My learning started with Python and Java. However, I am comfortable with not only those two but SwiftUI, HTML, CSS and JavaScript.
+After a couple of years of studying, I started to teach programming to share my knowledge and consolidate my basics. 
+Through teaching students, I have improved my communication skills and my programming knowledge. 
+
 ## Education
 
 - **B.S. in computer Science at University of the people**
