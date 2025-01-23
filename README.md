@@ -8,7 +8,7 @@ Through teaching students, I have improved my communication skills and my progra
 
 ## Education
 
-- **B.S. in computer Science at University of the people**
+- **B.S. in computer Science**
 
 ##  Skills
 
